@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-admin/static/css/main.6a433113.chunk.css",
+    "main.js": "/react-tailwind-admin/static/js/main.a33b3f6b.chunk.js",
+    "main.js.map": "/react-tailwind-admin/static/js/main.a33b3f6b.chunk.js.map",
+    "runtime-main.js": "/react-tailwind-admin/static/js/runtime-main.cda26be7.js",
+    "runtime-main.js.map": "/react-tailwind-admin/static/js/runtime-main.cda26be7.js.map",
+    "static/js/2.3f0ad464.chunk.js": "/react-tailwind-admin/static/js/2.3f0ad464.chunk.js",
+    "static/js/2.3f0ad464.chunk.js.map": "/react-tailwind-admin/static/js/2.3f0ad464.chunk.js.map",
+    "index.html": "/react-tailwind-admin/index.html",
+    "static/css/main.6a433113.chunk.css.map": "/react-tailwind-admin/static/css/main.6a433113.chunk.css.map",
+    "static/js/2.3f0ad464.chunk.js.LICENSE.txt": "/react-tailwind-admin/static/js/2.3f0ad464.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-tailwind-admin/static/media/Inter-SemiBold.c6588ec1.ttf",
+    "static/media/profile.6209f5d5.png": "/react-tailwind-admin/static/media/profile.6209f5d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda26be7.js",
+    "static/js/2.3f0ad464.chunk.js",
+    "static/css/main.6a433113.chunk.css",
+    "static/js/main.a33b3f6b.chunk.js"
+  ]
+}
