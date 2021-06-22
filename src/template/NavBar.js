@@ -15,10 +15,10 @@ function NavBar() {
 
   return (
     <nav
-      className="flex justify-between items-center space-x-4 shadow bg-white block w-full px-5 absolute"
+      className="flex items-center space-x-4 shadow bg-white block w-full px-5 absolute"
       style={{ height: navBarHeight }}
     >
-      <div className="inline-flex flex-1">
+      <div className="hidden md:inline-flex flex-1">
         <input
           type="text"
           className="lg:w-1/3 border border-r-0 border-gray-300 rounded-none rounded-l-md font-light focus:ring-0 focus:border-indigo-500"
@@ -28,6 +28,8 @@ function NavBar() {
           <SearchIcon className="w-5 h-5" />
         </button>
       </div>
+
+      <div className="flex-1 md:flex-none"></div>
 
       <a href="!#" className="relative text-gray-500 hover:text-gray-800">
         <span className="absolute top-0 right-0 w-2 h-2 bg-red-600 rounded-full"></span>
